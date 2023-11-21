@@ -1,1 +1,1 @@
-# Chronic Kidney Disease using XGBoost Classifier
+# Chronic Kidney Disease Prediction Model using XGBoost Classifier
